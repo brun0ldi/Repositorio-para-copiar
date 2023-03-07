@@ -1,0 +1,3 @@
+Ingrese los datos de su tarjeta de crédito o débito
+
+NOTA: No olvidar los 3 números del reverso :D 
